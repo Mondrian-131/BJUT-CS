@@ -1,0 +1,15 @@
+        if(tim[i]) continue;
+        int bg = i;
+        while(i<86400 && !tim[i]) i++;
+        int ed;
+        if(i==86400) ed = i-1;
+        else ed = i;
+        int h1,m1,s1,h2,m2,s2; 
+        h1 = bg/3600; bg -= h1*3600;
+        m1 = bg/60; bg -= m1*60;
+        s1 = bg;
+        h2 = ed/3600; ed -= h2*3600;
+        m2 = ed/60; ed -= m2*60;
+        s2 = ed;
+        printf("%02d:%02d:%02d - %02d:%02d:%02d\n",h1,m1,s1,h2,m2,s2);
+        i--;

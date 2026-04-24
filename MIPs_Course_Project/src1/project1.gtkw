@@ -1,0 +1,60 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jun 30 15:24:37 2025
+[*]
+[dumpfile] "E:\CO_course_project\MIPs_Course_Project\src1\wave.vcd"
+[dumpfile_mtime] "Mon Jun 30 15:20:22 2025"
+[dumpfile_size] 68391
+[savefile] "E:\CO_course_project\MIPs_Course_Project\src1\project1.gtkw"
+[timestart] 629230
+[size] 1463 800
+[pos] -191 -191
+*-14.000000 643640 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_mips.
+[treeopen] tb_mips.my_mips.
+[treeopen] tb_mips.my_mips.my_datapath.
+[sst_width] 197
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 223
+@28
+tb_mips.clk
+tb_mips.rst
+@22
+tb_mips.my_mips.my_datapath.my_pc.dout[31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[0][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[1][31:0]
+@23
+tb_mips.my_mips.my_datapath.my_gpr.\regs[2][31:0]
+@22
+tb_mips.my_mips.my_datapath.my_gpr.\regs[3][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[4][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[5][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[6][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[7][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[8][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[9][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[10][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[11][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[12][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[13][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[14][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[15][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[16][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[17][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[18][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[19][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[20][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[21][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[22][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[23][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[24][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[25][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[26][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[27][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[28][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[29][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[30][31:0]
+tb_mips.my_mips.my_datapath.my_gpr.\regs[31][31:0]
+[pattern_trace] 1
+[pattern_trace] 0

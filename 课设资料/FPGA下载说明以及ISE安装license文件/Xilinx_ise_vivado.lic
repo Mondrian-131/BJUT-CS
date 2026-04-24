@@ -1,0 +1,12 @@
+
+INCREMENT ISE_Vivado_Seth xilinxd 2016.05 22-dec-2016 uncounted \
+	A3C0A7B06338 VENDOR_STRING=License_Type:Bought HOSTID=ANY \
+	ISSUER=wahaha1357924680@126.com START=18-Sep-2012 TS_OK
+PACKAGE ISE_Vivado_Seth xilinxd 2016.05 9B4667199B7D COMPONENTS="ISE \
+	ChipscopePro ChipscopePro_SIOTK ISim PlanAhead XPS SDK SysGen \
+	Vivado Rodin_Synthesis Rodin_Implementation AccelDSP HLS \
+	PartialReconfiguration Vivado_HLS Rodin_SystemBuilder \
+	AUTOESL_FLOW AUTOESL_CC AUTOESL_OPT AUTOESL_SC AUTOESL_XILINX \
+	Simulation Implementation Analyzer Synthesis HLS_Synthesis \
+	petalinux_arch_ppc petalinux_arch_microblaze \
+	petalinux_arch_zynq" OPTIONS=SUITE
